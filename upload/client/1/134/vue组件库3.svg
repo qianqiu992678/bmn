@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="2672px" height="1336px" viewBox="0 0 2672 1336" enable-background="new 0 0 2672 1336" xml:space="preserve">
+<rect x="0" y="0" stroke="#000000" width="2672" height="1336"/>
+<g id="pipeWIDGET" onclick="alert('{&quot;compil_info&quot;:&quot;1&quot;,&quot;compil_version&quot;:&quot;0.1&quot;,&quot;address&quot;:&quot;3&quot;,&quot;signalType&quot;:&quot;yaoceObj&quot;,&quot;widget_type&quot;:&quot;pipeWIDGET&quot;,&quot;opposite&quot;:&quot;0&quot;,&quot;fillColor&quot;:&quot;red&quot;,&quot;lineColor&quot;:&quot;blue&quot;,&quot;pipedirect&quot;:&quot;horizontal&quot;}')">
+	<g id="indicators">
+		<rect x="204.708" y="98.927" fill="#FFFF00" stroke="#FFFF33" width="42.108" height="6"/>
+		<rect x="266.915" y="98.927" fill="#FFFF00" stroke="#FFFF33" width="42.108" height="6"/>
+	</g>
+	<line id="lineA" fill="none" stroke="#FFFF33" x1="49.396" y1="98.927" x2="1986.885" y2="98.927"/>
+	<line id="lineB_1_" fill="none" stroke="#FFFF33" x1="74.396" y1="110.927" x2="1960.97" y2="110.927"/>
+</g>
+<g id="pipeWIDGET_1_" onclick="alert('{&quot;compil_info&quot;:&quot;1&quot;,&quot;compil_version&quot;:&quot;0.1&quot;,&quot;address&quot;:&quot;3&quot;,&quot;signalType&quot;:&quot;yaoceObj&quot;,&quot;widget_type&quot;:&quot;pipeWIDGET&quot;,&quot;opposite&quot;:&quot;0&quot;,&quot;pipedirect&quot;:&quot;longitudinal&quot;,&quot;fillColor&quot;:&quot;red&quot;,&quot;lineColor&quot;:&quot;blue&quot;}')">
+	<g id="indicators_1_">
+		<rect x="1960.97" y="346" fill="#FFFF00" stroke="#FFFF33" width="25" height="56"/>
+		<rect x="1960.97" y="460" fill="#FFFF00" stroke="#FFFF33" width="25" height="62"/>
+	</g>
+	<line id="lineA_1_" fill="none" stroke="#FFFF33" x1="1960.97" y1="123.927" x2="1960.97" y2="1111.084"/>
+	<line id="lineB" fill="none" stroke="#FFFF33" x1="1985.97" y1="98.927" x2="1985.97" y2="1132.098"/>
+</g>
+<g id="pipeWIDGET_2_" onclick="alert('{&quot;compil_info&quot;:&quot;1&quot;,&quot;compil_version&quot;:&quot;0.1&quot;,&quot;address&quot;:&quot;3&quot;,&quot;signalType&quot;:&quot;yaoceObj&quot;,&quot;widget_type&quot;:&quot;pipeWIDGET&quot;,&quot;opposite&quot;:&quot;1&quot;,&quot;pipedirect&quot;:&quot;horizontal&quot;,&quot;fillColor&quot;:&quot;red&quot;,&quot;lineColor&quot;:&quot;blue&quot;}')">
+	<g id="indicators_2_">
+		<rect x="1095.804" y="1111.084" fill="#FFFF00" stroke="#FFFF33" width="44" height="25"/>
+		<rect x="1160.804" y="1111.084" fill="#FFFF00" stroke="#FFFF33" width="44" height="25"/>
+	</g>
+	<line id="lineA_2_" fill="none" stroke="#FFFF33" x1="74.396" y1="1111.084" x2="1960.97" y2="1111.084"/>
+	<line id="lineB_2_" fill="none" stroke="#FFFF33" x1="49.396" y1="1136.084" x2="1986.885" y2="1136.084"/>
+</g>
+<g id="pipeWIDGET_3_" onclick="alert('{&quot;compil_info&quot;:&quot;1&quot;,&quot;compil_version&quot;:&quot;0.1&quot;,&quot;address&quot;:&quot;3&quot;,&quot;signalType&quot;:&quot;yaoceObj&quot;,&quot;widget_type&quot;:&quot;pipeWIDGET&quot;,&quot;opposite&quot;:&quot;1&quot;,&quot;pipedirect&quot;:&quot;longitudinal&quot;,&quot;fillColor&quot;:&quot;red&quot;,&quot;lineColor&quot;:&quot;blue&quot;}')">
+	<g id="indicators_3_">
+		<rect x="49.396" y="396" fill="#FFFF00" stroke="#FFFF33" width="25" height="56"/>
+		<rect x="49.396" y="510" fill="#FFFF00" stroke="#FFFF33" width="25" height="62"/>
+	</g>
+	<line id="lineA_3_" fill="none" stroke="#FFFF33" x1="49.396" y1="98.927" x2="49.396" y2="1142.066"/>
+	<line id="lineB_3_" fill="none" stroke="#FFFF33" x1="74.396" y1="123.927" x2="74.396" y2="1111.084"/>
+</g>
+<g id="pipeWIDGET_4_" onclick="alert('{&quot;compil_info&quot;:&quot;1&quot;,&quot;compil_version&quot;:&quot;0.1&quot;,&quot;address&quot;:&quot;3&quot;,&quot;signalType&quot;:&quot;yaoceObj&quot;,&quot;widget_type&quot;:&quot;pipeWIDGET&quot;,&quot;opposite&quot;:&quot;0&quot;,&quot;pipedirect&quot;:&quot;horizontal&quot;}')">
+	<g id="indicators_4_">
+		<rect x="392.191" y="494.98" fill="#FFFF00" stroke="#FFFF33" width="22.549" height="87.891"/>
+		<rect x="425.502" y="494.98" fill="#FFFF00" stroke="#FFFF33" width="22.549" height="87.891"/>
+	</g>
+	<line id="lineA_4_" fill="none" stroke="#FFFF33" x1="309.025" y1="494.98" x2="1346.514" y2="494.98"/>
+	<line id="lineB_4_" fill="none" stroke="#FFFF33" x1="322.412" y1="582.871" x2="1332.636" y2="582.871"/>
+</g>
+</svg>
